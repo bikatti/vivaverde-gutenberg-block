@@ -1,0 +1,33 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-gutenberg-glosasrio-block {
+	border: 0.5px solid rgba(0, 0, 0, 0.1);
+    background-color: white;
+    box-shadow: 2px 8px 17px #dedede;
+    margin: 0 auto;
+    max-width: 740px;
+    margin-top: 12px;
+    padding: 30px 40px;
+
+    h3 {
+        font-size: 23px;
+        line-height: 1.4;
+        font-weight: 500;
+        margin: 0px !important;
+    }
+
+    p {
+        margin: 0 !important;
+        margin-top: 15px !important;
+        max-width: 625px;
+
+        &:first-child {
+            margin-top: 10px !important;
+        }
+    }
+}
