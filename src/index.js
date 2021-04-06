@@ -52,6 +52,9 @@ registerBlockType( 'gutenberg/glosasrio-block', {
             selector: '.content-body',
         },
 	},
+	supports: {
+		anchor: true
+	},
 	/**
 	 * @see https://make.wordpress.org/core/2020/11/18/block-api-version-2/
 	 */
