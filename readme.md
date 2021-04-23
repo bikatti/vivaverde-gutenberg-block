@@ -4,14 +4,14 @@ Mercurio - Wordpress template
 Creación de bloques para Glosario, o Títulos con sus propios estilos y funcionalidades. Estos bloques fueron hecho para [Vivaverde](http://vivaverde.net/)
 
 
-Contributors:      The WordPress Contributors
-Tags:              block
-Requires at least: 5.6.0
-Tested up to:      5.7.0
-Stable tag:        0.1.0
-Requires PHP:      7.0.0
-License:           GPL-2.0-or-later
-License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+* Contributors:      The WordPress Contributors
+* Tags:              block
+* Requires at least: 5.6.0
+* Tested up to:      5.7.0
+* Stable tag:        0.1.0
+* Requires PHP:      7.0.0
+* License:           GPL-2.0-or-later
+* License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
 
 ### Pre-requisitos 📋
